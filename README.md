@@ -49,7 +49,7 @@ TaskManager/
 
 ### Step 1: Clone Repo
 
-git clone https://github.com/sriram-768/devops_project_1.git
+git clone https://github.com/sriram-768/CI-CD_Pipeline
 
 ### Step 2: Run with Docker
 
